@@ -1,3 +1,6 @@
+
+// FROM: google blockly DOCS 
+
 class CustomCategory extends Blockly.ToolboxCategory {
     /**
      * Constructor for a custom category.
@@ -37,3 +40,6 @@ class CustomCategory extends Blockly.ToolboxCategory {
     Blockly.registry.Type.TOOLBOX_ITEM,
     Blockly.ToolboxCategory.registrationName,
     CustomCategory, true);
+
+
+// FROM: google blockly DOCS 
